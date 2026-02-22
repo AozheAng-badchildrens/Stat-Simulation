@@ -72,4 +72,4 @@ Ideas and PRs are welcome, especially around:
 
 ## :page_facing_up: License
 
-No license has been added yet.
+MIT License
